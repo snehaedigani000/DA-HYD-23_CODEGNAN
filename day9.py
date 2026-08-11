@@ -94,7 +94,14 @@ a="  Codegnan"
 print(a.strip())
 b=input("Enter the string:".strip().lower())
 print(b)
-
+#zfill()filling with zeros as per the given numeric string
+print('234'.zfill(4))
+print('234'.zfill(7))
+#center(),ljust(),rjust()-->Alignment of strings(check length and then modify the width accordingly
+print('hai'.center(6))
+print('hai'.center(6,'#'))
+print('hai'.ljust(6,'#'))
+      
 
 
 
