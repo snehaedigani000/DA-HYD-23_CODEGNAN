@@ -100,7 +100,7 @@ print(names)
 1:sneha
 2:python
 3:java
-'''s
+'''
 
 
 
