@@ -111,7 +111,7 @@ print(d)
 #accept group of integers space seperated
 a,b=map(int,input("Enter the value:").split())
 print(a,b)
-a= tuple(map(int,input("Enter he values").split(',',)))
+a= tuple(map(int,input("Enter the values").split(',',)))
 print(a)
 print(9+4)
 #eval() func can take any kind of input
